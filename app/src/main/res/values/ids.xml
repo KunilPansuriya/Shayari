@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="grad_color_item" type="id" />
+    <item name="fontList" type="id" />
+    <item name="fontName" type="id" />
+</resources>
